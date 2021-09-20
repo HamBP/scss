@@ -1,8 +1,7 @@
-p {
-  display: block;
-  color: blue;
-}
+@import './constant/colors';
 
-* {
-  font-family: 'Noto Sans KR', sans-serif;
+$hongsi: 14px;
+
+p {
+  font-size: $hongsi;
 }
