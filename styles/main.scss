@@ -1,6 +1,8 @@
 @import './constant/colors';
 
-$hongsi: 14px;
+@import './base/fonts';
+
+$hongsi: 16px;
 
 p {
   font-size: $hongsi;
