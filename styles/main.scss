@@ -2,8 +2,4 @@
 
 @import './base/fonts';
 
-$hongsi: 16px;
-
-p {
-  font-size: $hongsi;
-}
+@import './layouts/grids';
