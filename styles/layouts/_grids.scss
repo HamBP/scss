@@ -1,33 +1,5 @@
 $gutter: 20px;
 
-/*
- * MOBILE < 768px
- * fixture  : sm
- * columns  : 4
- * gutter   : 20px
- * margin   : 5px
- * container : 100% - (5px * 2)
-*/
-
-/*
-* TABLATE >= 768px
-* fixture   : md
-* columns   : 12
-* gutter    : 20px
-* margin    : 30px
-* container : 100% - (30px * 2)
-* max-container-size : 960px
-*/
-
-/*
-* DESKTOP >= 768px
-* fixture : lg
-* columns : 12
-* gutter  : 20px
-* unit    : 75px
-* container : 1140px
-*/
-
 $sm-columns: 4;
 $sm-margin: 5px;
 
